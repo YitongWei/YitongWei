@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @YitongWei
+- 👋 Hi, I’m @Yitong
 - 👀 I’m interested in java
 - 📫 contact weiyitong1989@gmail.com
